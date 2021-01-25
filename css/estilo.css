@@ -28,6 +28,15 @@
                     h4 {
                         font-size: 30px;
                     }
+                    /* .photo {
+                        width: 200px;
+                        height: 180px;
+                        border-width: 1px;
+                        border-style: solid;
+                        border-color: rgb(5, 82, 44);
+                        border-image: initial;
+                        border-radius: 50%;
+                    }*/
                     
                     a {
                         background-color: green;
